@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" width="1280" height="520" role="img" aria-label="TARGET VS ACHIEVEMENT DASHBOARD illustrative dashboard banner">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07162F"/><stop offset="1" stop-color="#102A53"/></linearGradient>
+  <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0 H0 V25" stroke="#21446F" stroke-width=".9" opacity=".45" fill="none"/></pattern>
+ </defs>
+ <rect width="1280" height="520" rx="18" fill="url(#bg)"/>
+ <rect width="1280" height="520" rx="18" fill="url(#grid)"/>
+ <rect x="62" y="54" width="7" height="24" rx="3" fill="#FF8276"/>
+ <text x="86" y="72" fill="#FF8E87" font-size="17" font-weight="700" letter-spacing="2" font-family="Arial, Helvetica, sans-serif">EXCEL / DONOR PROGRAMME REPORTING</text>
+ <text x="62" y="154" fill="#F3F7FF" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="-1">TARGET VS</text>
+<text x="62" y="218" fill="#F3F7FF" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="-1">ACHIEVEMENT</text>
+<text x="62" y="282" fill="#F3F7FF" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="-1">DASHBOARD</text>
+ <text x="63" y="338" fill="#C5D8F6" font-size="21" font-family="Arial, Helvetica, sans-serif">DiN Donor Programme  /  Quasem Foundation</text>
+ <rect x="62" y="372" width="102" height="35" rx="17" fill="#153967" stroke="#3F6EB0"/><text x="113.0" y="395" fill="#DDEAFF" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">EXCEL</text><rect x="176" y="372" width="180" height="35" rx="17" fill="#153967" stroke="#3F6EB0"/><text x="266.0" y="395" fill="#DDEAFF" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">TARGET TRACKING</text><rect x="368" y="372" width="166" height="35" rx="17" fill="#153967" stroke="#3F6EB0"/><text x="451.0" y="395" fill="#DDEAFF" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">DONOR REPORTING</text>
+ <rect x="700" y="100" width="524" height="349" rx="18" fill="#10264A" stroke="#3B5D93" stroke-width="2"/>
+ <text x="723" y="146" fill="#E7F0FF" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="1">PROGRAMME PERFORMANCE</text>
+ <line x1="722" y1="163" x2="1200" y2="163" stroke="#31598A" stroke-width="1"/>
+ <rect x="722" y="178" width="144" height="80" rx="10" fill="#1A3C6C" stroke="#3C64A2"/><text x="737" y="203" fill="#EDF3FF" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700">Annual Target</text><rect x="737" y="220" rx="4" width="74" height="9" fill="#76A7FF"/><rect x="737" y="239" rx="3" width="45" height="5" fill="#426EAD"/><rect x="880" y="178" width="144" height="80" rx="10" fill="#1A3C6C" stroke="#3C64A2"/><text x="895" y="203" fill="#EDF3FF" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700">Achievement</text><rect x="895" y="220" rx="4" width="84" height="9" fill="#76A7FF"/><rect x="895" y="239" rx="3" width="58" height="5" fill="#426EAD"/><rect x="1038" y="178" width="144" height="80" rx="10" fill="#1A3C6C" stroke="#3C64A2"/><text x="1053" y="203" fill="#EDF3FF" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700">Monthly Trend</text><rect x="1053" y="220" rx="4" width="94" height="9" fill="#76A7FF"/><rect x="1053" y="239" rx="3" width="71" height="5" fill="#426EAD"/>
+ <rect x="722" y="276" width="462" height="151" rx="12" fill="#17345F" stroke="#31598A"/>
+ <line x1="740" y1="400" x2="1163" y2="400" stroke="#385A88" stroke-width="2"/>
+ <line x1="740" y1="359" x2="1163" y2="359" stroke="#2E4A75" stroke-dasharray="5 7"/>
+ <line x1="740" y1="321" x2="1163" y2="321" stroke="#2E4A75" stroke-dasharray="5 7"/>
+ <polyline points="747,387 813,360 879,367 943,321 1010,338 1078,297 1159,309" fill="none" stroke="#7CAEFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="1078" cy="297" r="7" fill="#FF897C"/>
+ <text x="62" y="484" fill="#A6BDD9" font-size="15" font-family="Arial, Helvetica, sans-serif">DiN · TARGET VS ACHIEVEMENT CASE STUDY</text>
+ <text x="1216" y="484" text-anchor="end" fill="#A6BDD9" font-size="14" font-family="Arial, Helvetica, sans-serif">ILLUSTRATIVE · NO ACTUAL REPORT DATA</text>
+ </svg>
