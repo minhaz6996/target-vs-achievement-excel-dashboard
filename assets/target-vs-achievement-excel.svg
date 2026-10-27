@@ -1,26 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520">
-    <defs>
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#081b38"/>
-        <stop offset="100%" stop-color="#0e2b56"/>
-      </linearGradient>
-      <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-        <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#17345f" stroke-width="1"/>
-      </pattern>
-    </defs>
-    <rect width="1280" height="520" fill="url(#bg)"/>
-    <rect width="1280" height="520" fill="url(#grid)" opacity="0.45"/>
-    <text x="60" y="60" fill="#ff8b7a" font-size="16" font-family="Arial" font-weight="700">EXCEL / PERFORMANCE DASHBOARD</text>
-    <text x="60" y="140" fill="#ffffff" font-size="44" font-family="Arial" font-weight="800">TARGET VS ACHIEVEMENT</text>
-    <text x="60" y="192" fill="#ffffff" font-size="44" font-family="Arial" font-weight="800">DASHBOARD</text>
-    <text x="60" y="245" fill="#c8d7f6" font-size="24" font-family="Arial">Annual objectives • Monthly trends • Gender detail</text>
-    <rect x="60" y="292" rx="18" ry="18" width="95" height="32" fill="#17396b" stroke="#335d9b"/><text x="108" y="313" fill="#ffffff" font-size="14" font-family="Arial" text-anchor="middle">Excel</text><rect x="175" y="292" rx="18" ry="18" width="95" height="32" fill="#17396b" stroke="#335d9b"/><text x="223" y="313" fill="#ffffff" font-size="14" font-family="Arial" text-anchor="middle">Programme KPI</text><rect x="290" y="292" rx="18" ry="18" width="95" height="32" fill="#17396b" stroke="#335d9b"/><text x="338" y="313" fill="#ffffff" font-size="14" font-family="Arial" text-anchor="middle">Target Tracking</text><rect x="405" y="292" rx="18" ry="18" width="95" height="32" fill="#17396b" stroke="#335d9b"/><text x="453" y="313" fill="#ffffff" font-size="14" font-family="Arial" text-anchor="middle">Summary</text>
-    <rect x="660" y="84" rx="22" ry="22" width="560" height="320" fill="#122c56" stroke="#2e5288" stroke-width="2"/>
-    <text x="700" y="112" fill="#e7efff" font-size="20" font-family="Arial" font-weight="700">VISUAL LAYOUT / SCHEMATIC</text>
-    <rect x="700" y="120" rx="14" ry="14" width="120" height="70" fill="#17345f" stroke="#32598f"/><text x="718" y="145" fill="#ffffff" font-size="16" font-family="Arial">Annual Objective</text><line x1="718" y1="165" x2="780" y2="165" stroke="#79a7ff" stroke-width="8" stroke-linecap="round"/><rect x="850" y="120" rx="14" ry="14" width="120" height="70" fill="#17345f" stroke="#32598f"/><text x="868" y="145" fill="#ffffff" font-size="16" font-family="Arial">Surgery %</text><line x1="868" y1="165" x2="930" y2="165" stroke="#79a7ff" stroke-width="8" stroke-linecap="round"/><rect x="1000" y="120" rx="14" ry="14" width="120" height="70" fill="#17345f" stroke="#32598f"/><text x="1018" y="145" fill="#ffffff" font-size="16" font-family="Arial">Glasses %</text><line x1="1018" y1="165" x2="1080" y2="165" stroke="#79a7ff" stroke-width="8" stroke-linecap="round"/><rect x="700" y="220" rx="14" ry="14" width="120" height="70" fill="#17345f" stroke="#32598f"/><text x="718" y="145" fill="#ffffff" font-size="16" font-family="Arial">Monthly Hit Rate</text><line x1="718" y1="165" x2="780" y2="165" stroke="#79a7ff" stroke-width="8" stroke-linecap="round"/>
-    <rect x="850" y="220" rx="18" ry="18" width="290" height="120" fill="#17345f" stroke="#32598f"/>
-    <polyline points="880,300 930,265 980,275 1035,230 1090,245 1145,190" fill="none" stroke="#79a7ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="980" cy="145" r="0" fill="#fff"/>
-    <text x="60" y="472" fill="#b9c9ea" font-size="14" font-family="Arial">MINHAZUL ALAM · PORTFOLIO CASE STUDY</text>
-    <text x="980" y="472" fill="#8ea6d3" font-size="14" font-family="Arial">SCHEMATIC — NOT SOURCE WORKBOOK</text>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-label="DiN Donor Target vs Achievement Dashboard GitHub banner with fully visible three-line title">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081A36"/>
+      <stop offset="100%" stop-color="#112B55"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6798FA"/>
+      <stop offset="100%" stop-color="#93B5FF"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#32547D" stroke-width="0.7" opacity="0.32"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="1280" height="520" fill="url(#background)"/>
+  <rect x="0" y="0" width="1280" height="520" fill="url(#grid)"/>
+  <rect x="64" y="61" width="5" height="19" rx="2" fill="#FF806F"/>
+  <text x="82" y="77" fill="#FF9284" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" letter-spacing="2">EXCEL / DONOR PROGRAMME REPORTING</text>
+
+  <!-- Separate short lines deliberately keep all title text inside the left panel. -->
+  <g fill="#F8FAFF" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="47" letter-spacing="0.2">
+    <text x="66" y="157">TARGET VS</text>
+    <text x="66" y="215">ACHIEVEMENT</text>
+    <text x="66" y="273">DASHBOARD</text>
+  </g>
+  <text x="68" y="325" fill="#C5D8F7" font-family="Arial, Helvetica, sans-serif" font-size="20">Annual goals · Monthly trends · Gender detail</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    <rect x="68" y="354" width="81" height="36" rx="18" fill="#1B3968" stroke="#5277B2"/>
+    <text x="108.5" y="377" fill="#EAF2FF">Excel</text>
+    <rect x="164" y="354" width="139" height="36" rx="18" fill="#1B3968" stroke="#5277B2"/>
+    <text x="233.5" y="377" fill="#EAF2FF">Donor KPIs</text>
+    <rect x="318" y="354" width="156" height="36" rx="18" fill="#1B3968" stroke="#5277B2"/>
+    <text x="396" y="377" fill="#EAF2FF">Target Tracking</text>
+    <rect x="489" y="354" width="160" height="36" rx="18" fill="#1B3968" stroke="#5277B2"/>
+    <text x="569" y="377" fill="#EAF2FF">Programme Data</text>
+  </g>
+
+  <!-- The right panel starts at x=700. Title ends well before it. -->
+  <rect x="700" y="94" width="512" height="316" rx="23" fill="#102748" stroke="#3A5A8B" stroke-width="2"/>
+  <text x="727" y="131" fill="#DFEAFE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="0.7">REPORT STRUCTURE / PREVIEW</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="729" y="152" width="145" height="83" rx="12" fill="#1B3A68" stroke="#365F97"/>
+    <text x="744" y="178" fill="#F3F7FF" font-size="17" font-weight="700">Annual Goals</text>
+    <path d="M744 209H824" stroke="#80ABFF" stroke-width="8" stroke-linecap="round"/>
+
+    <rect x="887" y="152" width="143" height="83" rx="12" fill="#1B3A68" stroke="#365F97"/>
+    <text x="902" y="178" fill="#F3F7FF" font-size="17" font-weight="700">Surgery</text>
+    <path d="M902 209H978" stroke="#80ABFF" stroke-width="8" stroke-linecap="round"/>
+
+    <rect x="1043" y="152" width="139" height="83" rx="12" fill="#1B3A68" stroke="#365F97"/>
+    <text x="1058" y="178" fill="#F3F7FF" font-size="17" font-weight="700">Glasses</text>
+    <path d="M1058 209H1130" stroke="#FF8A79" stroke-width="8" stroke-linecap="round"/>
+
+    <rect x="729" y="249" width="453" height="126" rx="14" fill="#19335D" stroke="#365F97"/>
+    <text x="746" y="277" fill="#DFEAFE" font-size="16" font-weight="700">Monthly performance</text>
+    <path d="M753 352 L800 332 L845 341 L893 308 L944 321 L999 292 L1055 307 L1124 277" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#A5C0F8">
+      <circle cx="753" cy="352" r="4"/>
+      <circle cx="893" cy="308" r="4"/>
+      <circle cx="999" cy="292" r="4"/>
+      <circle cx="1124" cy="277" r="4"/>
+    </g>
+  </g>
+  <line x1="66" y1="443" x2="1210" y2="443" stroke="#31517F" opacity="0.8"/>
+  <text x="68" y="472" fill="#BBCBE6" font-family="Arial, Helvetica, sans-serif" font-size="15">MINHAZUL ALAM  /  DiN DONOR PROGRAMME CASE STUDY</text>
+  <text x="1210" y="472" fill="#9EB1D2" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14">ILLUSTRATIVE · NOT ORIGINAL DATA</text>
+</svg>
