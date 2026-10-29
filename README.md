@@ -9,8 +9,55 @@
 ![Target vs Achievement Excel Dashboard](assets/target-vs-achievement-excel.svg)
 
 ## Project overview
+This Excel dashboard supports target-versus-achievement monitoring for a programme supported by DiN (Dak International Network), with reporting prepared in the context of Quasem Foundation. The workbook consolidates nine monthly programme summaries into an executive view, making it easier to review progress, identify shortfalls, and communicate programme performance.
 
-This Excel dashboard supports **target-versus-achievement monitoring** for a programme supported by **DiN (Dak International Network)**, with reporting prepared in the context of **Quasem Foundation**. The workbook consolidates nine monthly programme summaries into an executive view, making it easier to review progress, identify shortfalls and communicate programme performance.
+## Verified Performance Results
+
+**Reporting period:** July 2025 – March 2026 (9 months)
+
+This case study presents a historical performance snapshot of the DiN donor programme. Achievements recorded through March 2026 are compared with both nine-month cumulative targets and full annual objectives.
+
+### Major Programme Objectives
+
+| Indicator | Cataract Surgery | Reading Glasses |
+|---|---:|---:|
+| Annual Target | 6,500 | 10,000 |
+| Target through March | 5,650 | 8,550 |
+| Achievement through March | 5,112 | 7,913 |
+| Achievement vs 9-Month Target | 90.5% | 92.5% |
+| Progress vs Annual Target | 78.6% | 79.1% |
+| Balance vs Annual Target | 1,388 | 2,087 |
+
+### Combined Annual Objective
+
+- Annual objective: 16,500
+- Achievement through March: 13,025
+- Achievement against full annual target: 78.94%
+- Reporting months covered: 9
+
+### Gender-Disaggregated Results
+
+| Activity | Male | Female | Total |
+|---|---:|---:|---:|
+| Cataract Surgery | 2,363 | 2,749 | 5,112 |
+| Spectacles Distribution | 3,700 | 4,213 | 7,913 |
+| Registration | 14,070 | 16,221 | 30,291 |
+| Patient Advice for Surgery | 3,651 | 4,181 | 7,832 |
+
+Female participants accounted for 53.8% of reported cataract surgeries and 53.2% of spectacles distribution.
+
+### Data Verification and Reporting Scope
+
+The consolidated workbook's Dashboard, Combined Summary, Gender Detail and Source Log were reviewed for consistency.
+
+The Source Log lists nine monthly reporting workbooks covering July 2025 through March 2026. The individual original monthly source workbooks were not independently audited as part of this portfolio review.
+
+**Important:** The 78.94% figure represents achievement through March 2026 against the full annual target. It is not the final result for the complete financial year.
+
+April–June 2026 data is outside the scope of this historical analysis.
+
+The portfolio banner is illustrative rather than a screenshot of the actual workbook. Original programme-level source files are not included in this public repository.
+
 
 ## What the workbook demonstrates
 
